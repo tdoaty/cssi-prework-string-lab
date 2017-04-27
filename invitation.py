@@ -10,28 +10,28 @@ def weasley_invitation(name,day,date,month):
 
 ### Challenge 3 - Seating Location
 def seating_location(last_name):
-    if last_name[:1]== "A"
+    if last_name[0]== "A"
         location = "rear section."
     else:
-    if last_name[:1]== "B"
+    if last_name[0]== "B"
         location = "rear section."
     else:
-    if last_name[:1]== "C"
+    if last_name[0]== "C"
         location = "rear section."
     else:
-    if last_name[:1]== "D"
+    if last_name[0]== "D"
         location = "rear section."
     else:
-    if last_name[:1]== "E"
+    if last_name[0]== "E"
             location = "rear section."
     else:
-    if last_name[:1]== "F"
+    if last_name[0]== "F"
             location = "rear section."
     else:
-    if last_name[:1]== "G"
+    if last_name[0]== "G"
             location = "rear section."
     else:
-    if  last_name[:1]=="W"
+    if  last_name[0]=="W"
         location = "front row."
     else:
         location = "middle section."
